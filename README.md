@@ -25,7 +25,7 @@ Create a virtual environment using python -m venv venv
 Activate the virtual environment using source venv/bin/activate (for Mac/Linux) or venv\Scripts\activate (for Windows)
 Install the required packages using pip install -r requirements.txt
 Run the Flask server using flask run
-Open a web browser and go to http://localhost:5000 to view the website
+Open a web browser and go to http://localhost:8989 to view the website
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. You can also submit bug reports or feature requests through the Issues tab.
 
